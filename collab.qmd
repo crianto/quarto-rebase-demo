@@ -10,3 +10,7 @@ This is a collaborative Quarto project.
 # Contributions
 
 Chelsea contributed to this
+
+# Instructor's Section
+
+This section was added after Student B began work.
