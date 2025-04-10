@@ -11,10 +11,8 @@ This is a collaborative Quarto project.
 
 Chelsea contributed to this
 
-<<<<<<< HEAD
 # Trisha’s Section
 This is my contribution to the Quarto project.
-=======
+
 # Instructor's Section
 This section was added after Student B began work.
->>>>>>> upstream/main
